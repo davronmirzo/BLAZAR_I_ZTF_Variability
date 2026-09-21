@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.22868124
 # BLAZAR_I reproducibility package — v1.0.0
 
 **Associated article:**  
