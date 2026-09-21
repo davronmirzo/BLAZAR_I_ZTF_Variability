@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.22868124
 cff-version: 1.2.0
 message: "If you use this archive, please cite the Zenodo record and the associated journal article."
 
@@ -26,4 +27,4 @@ keywords:
   - damped random walk
   - reproducibility
 
-repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+repository-code: "https://github.com/davronmirzo/BLAZAR_I_ZTF_Variability"
