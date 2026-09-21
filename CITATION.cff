@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite the Zenodo record and the associated journal article."
+title: "BLAZAR_I: code, tables, and figures for Population-Scale Optical Variability of Fermi Blazars in ZTF"
+type: dataset
+version: 1.0.0
+date-released: 2026-09-19
+authors:
+  - family-names: "Mirzaqulov"
+    given-names: "Davron"
+  - family-names: "Turaev"
+    given-names: "Sobir"
+  - family-names: "Ehgamberdiev"
+    given-names: "Shuhrat"
+keywords:
+  - blazars
+  - FSRQ
+  - BL Lac
+  - Fermi-LAT
+  - ZTF
+  - optical variability
+  - damped random walk
+  - reproducibility
+repository-code: "ZENODO_RECORD_URL_TO_BE_ADDED"
+doi: "ZENODO_DOI_TO_BE_ADDED"

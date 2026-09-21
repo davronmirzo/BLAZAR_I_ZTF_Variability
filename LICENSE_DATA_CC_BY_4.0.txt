@@ -1,0 +1,11 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Davron Mirzaqulov, Sobir Turaev, Shuhrat Ehgamberdiev
+
+The non-code materials in this archive are made available under CC BY 4.0.
+
+You may share and adapt the material for any purpose provided appropriate credit
+is given, a link to the license is provided, and changes are indicated.
+
+SPDX identifier: CC-BY-4.0
+https://creativecommons.org/licenses/by/4.0/
